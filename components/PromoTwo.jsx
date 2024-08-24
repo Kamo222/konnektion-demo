@@ -3,7 +3,7 @@
 import { Container } from "postcss";
 import { Button } from "./ui/button";
 import Image from "next/image";
-import promo2 from "@/public/promo2.svg";
+import promo2 from "@/public/Promo2.svg";
 import { motion } from "framer-motion";
 
 const PromoTwo = () => {
